@@ -1,0 +1,18 @@
+{
+  "name": "project_17",
+  "version": "1.0.0",
+  "description": "training css flexbox",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass": "node-sass sass/main.scss css/style.css -w",
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Jan Kadewski",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

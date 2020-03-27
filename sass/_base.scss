@@ -1,0 +1,36 @@
+:root{
+
+    --color-white:#fff;
+    --color-black:#000;
+    --color-dark-red:rgba(237, 32, 36, 1);
+    --color-btn-orange:#ff7e66;
+    --color--mainHeader-red:#ed2024;
+    --color--section--red:#f01b16;
+    --color-sectionDescription-grey:##9f9a97;
+    --color-facebook:#3b5998;
+    --color-twitter:#00aced;
+    --color-instagram:#517fa4;
+    --color-linkedin:#007bb6;
+}   
+
+*{
+    margin:0;
+    padding:0;
+}
+*,
+*::before,
+*::after{
+    box-sizing:inherit;
+}
+
+html{
+font-size:62.5%;
+box-sizing:border-box;
+}
+
+body{
+    line-height:1.6;
+    background-color: #d6d5d0;
+
+}
+
